@@ -1,0 +1,22 @@
+.vs/
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+# Others
+*.cache
+*.log
+*.ide
+*.dbmdl
